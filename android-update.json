@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "apkUrl": "https://raw.githubusercontent.com/alifarhat79/control-archivos-updates/main/ControlArchivos-0.2.6-debug.apk",
-  "sha256": "EC2D1B886A95A283336F20B817478F7C1B83B694AF22BEE7A5BBC8A2D564128E",
-  "notes": "Prueba final: actualización directa desde GitHub.",
-  "versionName": "0.2.6-debug",
+  "sha256": "9BEEFC909DB264DD2251E178D2204728D71F4029CC2DFB42F771A9381909227D",
+  "versionName": "0.2.7-debug",
+  "apkUrl": "https://raw.githubusercontent.com/alifarhat79/control-archivos-updates/main/ControlArchivos-0.2.7-debug.apk",
+  "versionCode": 9,
+  "notes": "Cajones con color de fondo, borde y nombre por empresa.",
   "mandatory": false
 }
