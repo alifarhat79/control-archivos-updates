@@ -1,8 +1,8 @@
 {
-  "sha256": "9BEEFC909DB264DD2251E178D2204728D71F4029CC2DFB42F771A9381909227D",
-  "versionName": "0.2.7-debug",
-  "apkUrl": "https://raw.githubusercontent.com/alifarhat79/control-archivos-updates/main/ControlArchivos-0.2.7-debug.apk",
-  "versionCode": 9,
-  "notes": "Cajones con color de fondo, borde y nombre por empresa.",
-  "mandatory": false
+  "versionCode": 10,
+  "versionName": "0.2.8",
+  "apkUrl": "https://raw.githubusercontent.com/alifarhat79/control-archivos-updates/main/ControlArchivos-0.2.8-debug.apk",
+  "sha256": "29eed6855e568b5bedc5a559cdaf88a7e8696768967a0addc2e83ba212bc97d6",
+  "mandatory": false,
+  "notes": "Fondos y colores visibles por empresa en cada cajón."
 }
