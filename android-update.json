@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "apkUrl": "https://raw.githubusercontent.com/alifarhat79/control-archivos-updates/main/ControlArchivos-0.2.4-debug.apk",
-  "versionName": "0.2.4-debug",
-  "notes": "Prueba del actualizador: descarga e instalación directa desde GitHub.",
-  "mandatory": false,
-  "sha256": "DC4EDAC6D9291655D387D9A63119F53CDE964AB4B22AFBECF2A96A3123971B7D"
+  "versionCode": 8,
+  "apkUrl": "https://raw.githubusercontent.com/alifarhat79/control-archivos-updates/main/ControlArchivos-0.2.6-debug.apk",
+  "sha256": "EC2D1B886A95A283336F20B817478F7C1B83B694AF22BEE7A5BBC8A2D564128E",
+  "notes": "Prueba final: actualización directa desde GitHub.",
+  "versionName": "0.2.6-debug",
+  "mandatory": false
 }
