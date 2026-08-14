@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "0.2.8",
-  "apkUrl": "https://raw.githubusercontent.com/alifarhat79/control-archivos-updates/main/ControlArchivos-0.2.8-debug.apk",
-  "sha256": "29eed6855e568b5bedc5a559cdaf88a7e8696768967a0addc2e83ba212bc97d6",
+  "versionCode": 11,
+  "versionName": "0.2.9",
+  "apkUrl": "https://raw.githubusercontent.com/alifarhat79/control-archivos-updates/main/ControlArchivos-0.2.9-debug.apk",
+  "sha256": "5eda2928d5b1548822860a8e9fd2fa4865337fde805313fadc667f683b8a831a",
   "mandatory": false,
-  "notes": "Fondos y colores visibles por empresa en cada cajón."
+  "notes": "Icono Inicio en Cajones para volver al dashboard."
 }
